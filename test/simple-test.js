@@ -14,7 +14,7 @@ var ctx = {
 
 assert.deepEqual({ a: 1, d: 42 }, objfilter(o1, function (n, k, o) {
   assert.equal(o, o1);
-  assert.notEqual(Object.keys(o1).indexOf(k), -1);
+  assert(typeof o1[k] !== 'undefined');
   return n > 0;
 }));
 
