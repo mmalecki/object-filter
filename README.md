@@ -16,10 +16,6 @@ var o1 = {
   d: 42
 };
 
-var ctx = {
-  foo: 'bar'
-};
-
 objfilter(o1, function (n) {
   return n > 0;
 }); // => `{ a: 1, d: 42 }`
