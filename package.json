@@ -6,5 +6,6 @@
   "author": "Maciej Małecki <me@mmalecki.com>",
   "scripts": {
     "test": "node test/simple-test.js"
-  }
+  },
+  "license": "MIT"
 }
