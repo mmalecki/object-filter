@@ -1,5 +1,5 @@
 {
-  "name": "objfilter",
+  "name": "object-filter",
   "version": "1.0.1",
   "description": "`Array.prototype.filter` for objects",
   "keywords": ["object", "filter"],
