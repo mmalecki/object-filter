@@ -1,6 +1,6 @@
 {
   "name": "objfilter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "`Array.prototype.filter` for objects",
   "keywords": ["object", "filter"],
   "author": "Maciej Małecki <me@mmalecki.com>",
