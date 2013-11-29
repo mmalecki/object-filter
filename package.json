@@ -1,0 +1,10 @@
+{
+  "name": "objfilter",
+  "version": "0.0.0",
+  "description": "`Array.prototype.filter` for objects",
+  "keywords": ["object", "filter"],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "scripts": {
+    "test": "node test/simple-test.js"
+  }
+}
