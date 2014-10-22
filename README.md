@@ -1,5 +1,5 @@
 # objfilter
-[![Build Status](https://travis-ci.org/mmalecki/objfilter.png?branch=master)](https://travis-ci.org/mmalecki/objfilter)
+[![Build Status](https://travis-ci.org/mmalecki/object-filter.png?branch=master)](https://travis-ci.org/mmalecki/object-filter)
 
 `Array.prototype.filter` for objects.
 
